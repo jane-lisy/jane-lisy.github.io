@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computational psycho-morpho-phonologist in training @ Johns Hopkins Cognitive Science
+subtitle: Computational psycho-morpho-phonologist in training @ JHU CogSci
 
 profile:
   align: right
