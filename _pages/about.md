@@ -5,8 +5,8 @@ permalink: /
 subtitle: Computational psycho-morpho-phonologist in training @ Johns Hopkins Cognitive Science
 
 profile:
-  align: left
-  image: prof_pic.jpg
+  align: right
+  image: jl.jpeg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
