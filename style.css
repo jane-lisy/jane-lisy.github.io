@@ -16,6 +16,12 @@ a:hover {
     font-size: 9pt;
 }
 
+.menur + div,
+.menur + div + div,
+.menur + div + div + div {
+    color: #6c757d;
+}
+
 .tagsep {
     padding: 4px;
 }
@@ -43,7 +49,7 @@ a:hover {
 
 .profilepic {
     width: 150px;
-    border-radius: 40%;
+    border-radius: 0%;
     filter: grayscale(30%);
 }
 
