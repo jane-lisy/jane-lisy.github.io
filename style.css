@@ -16,12 +16,6 @@ a:hover {
     font-size: 9pt;
 }
 
-.menur + div,
-.menur + div + div,
-.menur + div + div + div {
-    color: #6c757d;
-}
-
 .tagsep {
     padding: 4px;
 }
@@ -47,8 +41,13 @@ a:hover {
     color: #111;
 }
 
+.about p:last-child {
+    font-size: 12pt;
+    color: #d3d3d3;
+}
+
 .profilepic {
-    width: 150px;
+    width: 170px;
     border-radius: 0%;
     filter: grayscale(30%);
 }
