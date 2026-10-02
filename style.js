@@ -1,5 +1,5 @@
 // Initialize font properties
-const fontname = "Roboto+Mono";
+const fontname = "IBM Plex Sans";
 const fontweights = [300, 400]
 
 // Color properties
